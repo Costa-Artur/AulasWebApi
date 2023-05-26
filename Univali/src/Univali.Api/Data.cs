@@ -6,10 +6,12 @@ namespace Univali.Api
     public class Data 
     {
 
-        private static Data instance;
+        private static Data? _instance;
         public List<Customer> Customers {get; set;}
-        private Data() {
-            Customers = new List<Customer>(){
+        private Data() 
+        {
+            Customers = new List<Customer>()
+            {
                 new Customer
                 {
                     Id = 1,
@@ -25,11 +27,12 @@ namespace Univali.Api
             };
         }
 
-        public static Data getInstance () {
-            if(instance == null) {
-                instance = new Data();
+        public static Data Instance 
+        {
+            get 
+            {
+                return _instance ??= new Data();
             }
-            return instance;
         }
     }
 }
