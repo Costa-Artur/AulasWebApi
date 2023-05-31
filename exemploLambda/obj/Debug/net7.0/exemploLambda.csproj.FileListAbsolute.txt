@@ -1,0 +1,15 @@
+C:\Users\7828497\Desktop\exemploLambda\bin\Debug\net7.0\exemploLambda.exe
+C:\Users\7828497\Desktop\exemploLambda\bin\Debug\net7.0\exemploLambda.deps.json
+C:\Users\7828497\Desktop\exemploLambda\bin\Debug\net7.0\exemploLambda.runtimeconfig.json
+C:\Users\7828497\Desktop\exemploLambda\bin\Debug\net7.0\exemploLambda.dll
+C:\Users\7828497\Desktop\exemploLambda\bin\Debug\net7.0\exemploLambda.pdb
+C:\Users\7828497\Desktop\exemploLambda\obj\Debug\net7.0\exemploLambda.csproj.AssemblyReference.cache
+C:\Users\7828497\Desktop\exemploLambda\obj\Debug\net7.0\exemploLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7828497\Desktop\exemploLambda\obj\Debug\net7.0\exemploLambda.AssemblyInfoInputs.cache
+C:\Users\7828497\Desktop\exemploLambda\obj\Debug\net7.0\exemploLambda.AssemblyInfo.cs
+C:\Users\7828497\Desktop\exemploLambda\obj\Debug\net7.0\exemploLambda.csproj.CoreCompileInputs.cache
+C:\Users\7828497\Desktop\exemploLambda\obj\Debug\net7.0\exemploLambda.dll
+C:\Users\7828497\Desktop\exemploLambda\obj\Debug\net7.0\refint\exemploLambda.dll
+C:\Users\7828497\Desktop\exemploLambda\obj\Debug\net7.0\exemploLambda.pdb
+C:\Users\7828497\Desktop\exemploLambda\obj\Debug\net7.0\exemploLambda.genruntimeconfig.cache
+C:\Users\7828497\Desktop\exemploLambda\obj\Debug\net7.0\ref\exemploLambda.dll
